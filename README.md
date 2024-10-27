@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋 I'm Akasha Sahu</h1>
+<h1 align="center">Hey There 👋 I'm Akasha Sahu </h1>
 
 ###
 
