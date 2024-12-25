@@ -38,7 +38,8 @@
 
 <br clear="both">
 
-<h3 align="center">A Passionate Full Stack Developer from India.<br><br>🌱 I’m currently learning Full Stack Python.<br><br>💬 Ask me about HTML, CSS, JS, Python.<br><br>📫 How to reach me akashasahu2001@gmail.com</h3>
+<h3 align="center">A Passionate Full Stack Developer from India.<br><br>🌱 I’m currently learning Full Stack Python.<br><br>💬 Ask me about HTML, CSS, JS, Python.<br><br>
+
 
 ###
 
