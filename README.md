@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<h3 align="center">A Passionate Full Stack Dev from India 👨‍💻🔥
+<h3 align="left">A Passionate Full Stack Dev from India 👨‍💻🔥
 <br>🚀 Done with my Python Full Stack course — now building cool stuff every day.
 <br>🌱 Always leveling up with new projects & tech.
 <br>💬 Ask me anything about HTML, CSS, JS, Python — I got you!<br><br>📫 How to reach me: akashasahu2001@gmail.com</h3>
