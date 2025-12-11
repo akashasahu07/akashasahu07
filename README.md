@@ -41,11 +41,14 @@
 
 <br clear="both">
 
-<h3 align="center">A Passionate Full Stack Dev from India 👨‍💻🔥
-<br><br>🚀 Done with my Python Full Stack course — now building cool stuff every day.
-<br><br>🌱 Always leveling up with new projects & tech.
-<br><br>💬 Ask me anything about HTML, CSS, JS, Python — I got you!
-<br><br>📫 How to reach me: akashasahu2001@gmail.com</h3>
+<h3 align="center">
+  ✨ A Passionate Full Stack Developer from India
+  <br><br>🚀 Completed my Python Full Stack Development course
+  <br><br>🌱 Currently building real-world projects & sharpening my skills
+  <br><br>💬 Ask me about HTML, CSS, JavaScript, Python — always happy to help
+  <br><br>⚡ Love creating smooth UI, clean logic, and modern web experiences
+  <br><br>📫 How to reach me: akashasahu2001@gmail.com
+</h3>
 
 ###
 
